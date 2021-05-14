@@ -31,6 +31,5 @@ Format of Record Type 4:  DONE
 DONE
 Indicates no more input of the TLB, Page Table or Cache. It is now time to prompt the user for a Virtual Address and output the byte (or can not be determined) at that location.
 
-3 Times do the following;
 Print out "Enter Virtual Address:", then input the Virtual Address in Hex
 Output the byte found in Hex, or " Can not be determined"
